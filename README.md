@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer, with an interest towards Game Development</h3>
 <div align="center" style="display: flex; justify-content: left; gap: 20px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=7b6lqg1sefqjmsrzzf6shzr4b&count=3" alt="Spotify history" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zilfaan&layout=donut&theme=holi" alt="Top Languages" />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
