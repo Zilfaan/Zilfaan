@@ -13,18 +13,19 @@
 <h3 align="center">Aspiring Game Dev | Lifelong Learner</h3>
 
 <p align="center">
-Connect with Me &nbsp;
-<a href="https://linkedin.com/in/zilfaan sulfikhan" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="24"/>
-</a>
-<a href="https://instagram.com/zilfaan" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="24"/>
-</a>
-</p>
-
-<p align="center">
 I’m a passionate developer exploring the crossroads of <b>software engineering</b> and <b>game development</b>.<br>
 Always curious, always building, always pushing the limits of what I can create.
+</p>
+
+<p align="center" style="font-size:16px; font-weight:700;">
+  Connect with Me
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zilfaan-sulfikhan-9358b6303/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="25"/>
+  </a>
+  <a href="https://www.instagram.com/spoodergeneral/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
 </p>
 
 ---
