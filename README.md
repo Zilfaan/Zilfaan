@@ -1,14 +1,141 @@
-<h1 align="center">Hi 👋, I'm Zilfaan Zaki Sulfikhan</h1>
-<h3 align="center">A passionate developer, with an interest towards Game Development</h3>
-<div align="center" style="display: flex; justify-content: left; gap: 20px;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=7b6lqg1sefqjmsrzzf6shzr4b&count=3" alt="Spotify history" />
-</div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zilfaan sulfikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zilfaan sulfikhan" height="30" width="40" /></a>
-<a href="https://instagram.com/spoodergeneral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spoodergeneral" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@spooder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@spooder_" height="30" width="40" /></a>
+<!-- Hero -->
+<p align="center">
+  <span style="font-size: 20px;">Hi there, I'm</span><br>
+  <span style="font-size: 36px; font-weight: bold;">
+    &lt; <a href="https://www.blackcater.win/" target="_blank">Zilfaan Zaki</a> &gt;
+  </span><br><br>
+  <img src="images/cat.gif" height="36" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+<!-- Intro -->
+<h3 align="center">Aspiring Game Dev &nbsp;|&nbsp; Lifelong Learner</h3>
+<p style="display: flex; justify-content: center; align-items: center; gap: 0.5em; font-size: 1.rem;
+font-weight:600;">
+  Connect with Me
+  <a href="https://linkedin.com/in/zilfaan sulfikhan" target="_blank" style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="height: 1em; width: auto;"/>
+  </a>
+  <a href="https://instagram.com/zilfaan" target="_blank" style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=instagram" style="height: 1em; width: auto;"/>
+  </a>
+</p>
+
+<p align="center">
+  I’m a passionate developer exploring the crossroads of <b>software engineering</b> and <b>game development</b>.<br><br>
+  Always curious, always building, and always pushing the limits of what I can create.
+</p>
+<br>
+
+---
+
+<!-- Tech Stack -->
+<h3 align="center" style="font-size: 2rem; margin-bottom: 1rem;"> Languages & Tools</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+
+  <!-- Languages -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  </a>
+
+  <!-- Frontend -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/>
+  </a>
+
+  <!-- Backend / Databases -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://files.svgcdn.io/skill-icons/expressjs-dark.png" alt="Express.js"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/>
+  </a>
+
+  <!-- Tools -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+  </a>
+
+  <!-- Game Engines -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity"/>
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer" class="tech-icon">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine"/>
+  </a>
+</div>
+
+<style>
+  .tech-icon {
+    background: #1e1e1e;
+    border-radius: 8px;
+    padding: 5px;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .tech-icon img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+  }
+  .tech-icon:hover {
+    transform: scale(1.15);
+    box-shadow: 0 4px 15px rgba(86, 86, 86, 0.4);
+  }
+</style>
+
+---
+
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zilfaan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+<!-- Footer text -->
+<br>
+<p align="center">
+  <i>
+    You have reached the end, follow me to find something shiny someday 🍪
+  </i>
+</p>
