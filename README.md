@@ -3,7 +3,7 @@
   Hi there, I'm
 </h3>
 <h1 align="center">
-  <b>&lt; <a href="https://www.blackcater.win/" target="_blank">Zilfaan Zaki</a> &gt;</b> 
+  <b>&lt; <a href="" target="_blank">Zilfaan Zaki</a> &gt;</b> 
   <br>
   <br>
   <img src="images/cat.gif" height="36" />
@@ -50,7 +50,7 @@ Always curious, always building, always pushing the limits of what I can create.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Typescript" target="_blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   </a>
 </p>
@@ -68,7 +68,7 @@ Always curious, always building, always pushing the limits of what I can create.
   </a>
   <!-- Expo -->
   <a href="https://expo.dev/" target="_blank" rel="noreferrer" class="tech-icon">
-    <img src="https://images.seeklogo.com/logo-png/45/2/expo-go-app-logo-png_seeklogo-457073.png" alt="Expo" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" alt="Expo" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
