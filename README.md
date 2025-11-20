@@ -35,91 +35,112 @@ Always curious, always building, always pushing the limits of what I can create.
 
 <!-- Languages -->
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <a href="https://cplusplus.com/doc/tutorial/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <a href="https://docs.oracle.com/javase/tutorial/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   </a>
 </p>
 <br>
 <!-- Frontend -->
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   </a>
-  <!-- Expo -->
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer" class="tech-icon">
-    <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" alt="Expo" height="40"/>
+  <a href="https://reactnative.dev/docs/getting-started" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+  <a href="https://vitejs.dev/guide/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/>
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  </a>
+  <a href="https://docs.expo.dev/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
   </a>
 </p>
 <br>
 <!-- Backend / Databases -->
 <p align="center">
-  <a href="https://nodejs.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <a href="https://nodejs.org/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank">
-  <img src="https://files.svgcdn.io/skill-icons/expressjs-dark.png" height="40"/>
+  <a href="https://expressjs.com/en/starter/installing.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <a href="https://www.sqlite.org/docs.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
   </a>
-  </p>
+  <a href="https://firebase.google.com/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  </a>
+</p>
+
 <br>
 <!-- Tools -->
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   </a>
-  <a href="https://www.electronjs.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40"/>
+  <a href="https://www.electronjs.org/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" height="40"/>
+  </a>
+  <a href="https://docs.blender.org/manual/en/latest/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
   </a>
 </p>
 <br>
 <!-- Game Engines -->
 <p align="center">
-  <a href="https://unity.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
+  <a href="https://docs.unity3d.com/Manual/index.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
   </a>
-  <a href="https://unrealengine.com/" target="_blank">
-  <img src="https://www.pikpng.com/pngl/b/543-5434947_unreal-engine-logo-unreal-engine-logo-ico-clipart.png" height="40"/>
+  <a href="https://docs.unrealengine.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40"/>
   </a>
-</p>
-
+  <a href="https://www.khronos.org/opengl/wiki" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40"/>
+  </a>
 </p>
 
 ---
+
+<br>
 
 <!-- GitHub Stats -->
 <p align="center">
