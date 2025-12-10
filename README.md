@@ -144,7 +144,7 @@ Always curious, always building, always pushing the limits of what I can create.
 
 <!-- GitHub Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zilfaan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zilfaan&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p>
 
 ---
